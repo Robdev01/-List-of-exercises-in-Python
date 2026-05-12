@@ -8,11 +8,8 @@ Esta lista tem como foco desenvolver:
 - e prática com Python.
 
 ---
-# Exercício 0 — Soma de Dois Números
+# Exercício 0 — Olá, Mundo e Nome
 
-Olá, Mundo e Nome
-
-## Objetivo
 Crie um programa que:
 - peça o nome do usuário
 - exiba uma mensagem de boas-vindas
