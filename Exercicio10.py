@@ -1,9 +1,9 @@
 numero = int(input("digite seu numero: "))
 
-for vezes in range (1,11):
+for vezes in range(1, 11):
     resultado = numero*vezes
 
-    print (numero, "x" , vezes, "=" , resultado)
+    print(numero, "x", vezes, "=", resultado)
 
 
 #  # Exercício 10 — Tabuada
