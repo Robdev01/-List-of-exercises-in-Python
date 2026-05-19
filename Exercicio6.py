@@ -1,11 +1,14 @@
-numero1 = int(input("digite um numero: "))
-numero2 = int(input("digite um numero: "))
+numero=int (input("digite primeiro numero ") )
+numero1=int (input ("digite segundo numero ") )
 
-if numero1 > numero2:
-    print ("maior numero: ", numero1)
+if numero>numero1:
+    print ("o maior numero e ",numero )
 
 else:
-    print ("maior numero: ",numero2)
+    print ("o maior numero e ",numero1 )
+
+
+
 
 
 # # Exercício 6 — Maior Número

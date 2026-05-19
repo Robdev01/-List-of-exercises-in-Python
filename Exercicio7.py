@@ -1,10 +1,14 @@
-media = float(input("qual a media: "))
+media= int (input("digite a media "))
 
-if media >= 7:
-    print("aprovado")
+if media>=7:
+    print("aluno aprovado ")
 
 else:
-    print("reprovado")
+    print("aluno reprovado ")
+
+
+
+
 
 
 # # Exercício 7 — Sistema de Aprovação

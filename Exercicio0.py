@@ -1,10 +1,6 @@
-nome= input ("digite seu nome: ");
+nome= input ("qual e o seu nome? " )
 
-
-if nome == "robson":
-    print ("gatao")
-
-print ("ola", nome,"seja bem vindo");
+print ("ola " ,nome) 
 
 
 

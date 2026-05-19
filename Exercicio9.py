@@ -1,9 +1,10 @@
-soma = 0
-
+soma=0 
 for numero in range (1,101):
-    soma= soma + numero
+    soma=soma+numero
 
-print("resultado: ", soma)
+print ("resultado ",soma)
+
+
 
 
 

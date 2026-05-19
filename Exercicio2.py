@@ -1,12 +1,14 @@
-nota1 = int(input("nota 1: "))
-nota2 = int(input("nota 2: "))
-nota3 = int(input("nota 3: "))
+nota=int(input("digite uma nota "))
 
-soma = nota1 + nota2 + nota3
+nota1=int(input("digite outra nota "))
 
-media = soma / 3
+nota2=int(input("digite a ultima nota "))
 
-print ("media: ", media)
+soma= nota+nota1+nota2
+
+media= soma/3
+
+print("media: ", media )
 
 
 # Exercício 2 — Média de Notas
