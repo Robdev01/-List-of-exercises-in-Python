@@ -1,11 +1,7 @@
-numero1 = int(input("digite um numero: "))
-
-numero2 = int(input("digite outro numero: "))
-
-soma = (numero1 + numero2)
-
-print("seu resultado é", soma)
-
+numero= (input("digite um numero "))
+numero1=(input("digite outro numero ")) 
+soma= numero+numero1
+print("resultado: ",soma )
 
 # Exercício 1 — Soma de Dois Números
 

@@ -1,8 +1,8 @@
-metros = float(input("quantos metros: "))
+metro=float (input("digite o metro "))
 
-conversao= metros *100
+centimetro= metro*100
 
-print ("em cemtimetros fica: ", conversao)
+print ("resultado: ", centimetro,"centimetros " )
 
 
 

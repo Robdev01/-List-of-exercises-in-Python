@@ -1,13 +1,14 @@
-numero = int(input("digite um numero: "))
+numero=int (input("numero "))
 
-if numero > 0:
-    print("numero positivo ")
+if numero> 0:
+    print ("numero positivo ")
 
-elif numero < 0:
-    print("numero negativo")
+elif numero< 0:
+    print ("numero negativo")
 
 else:
-    print("numero zero")
+    print ("numero zero ")
+
     
 
 

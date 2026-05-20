@@ -1,12 +1,13 @@
-numero = int(input("digite um numero: "))
+numero= int (input ("numero ") )
 
-if numero%2 == 0:
-    print ("seu numero é par")
+if numero %2==0:
+    print ("numero par")
 
 else:
     print("numero impar")
 
 
+    
 # # Exercício 5 — Par ou Ímpar
 
 # Crie um programa que:

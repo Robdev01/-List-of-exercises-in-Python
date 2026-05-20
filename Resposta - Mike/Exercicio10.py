@@ -1,9 +1,10 @@
-numero = int(input("digite seu numero: "))
+numero=int (input("digite um numero "))
 
-for vezes in range(1, 11):
-    resultado = numero*vezes
+for multiplicador in range(1,11):
+    resultado= numero*multiplicador
+    print (numero,"x",multiplicador, "=", resultado)
 
-    print(numero, "x", vezes, "=", resultado)
+
 
 
 #  # Exercício 10 — Tabuada
