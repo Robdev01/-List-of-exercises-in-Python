@@ -1,5 +1,5 @@
 for numero in range(1,11):
-print (numero)
+    print (numero)
 
 
 # # Exercício 8 — Contagem de 1 até 10
